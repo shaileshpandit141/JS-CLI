@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./dist/main
+/home/shailesh/JS-CLI/build-js-cli/dist/main
