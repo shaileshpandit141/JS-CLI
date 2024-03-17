@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 /home/shailesh/JS-CLI/main.py
+/home/shailesh/Desktop/JS-CLI/build/dist/main
