@@ -1,5 +1,5 @@
 #!/bin/sh
 
-python3 /home/shailesh/js-app/main.py
+python3 /home/shailesh/JS-CLI/main.py
 cd js-app
 live-server
