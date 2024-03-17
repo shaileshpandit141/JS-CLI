@@ -176,7 +176,7 @@ const default_test_code = (
     <h1>Welcome to <span>JS-CLI</span></h1>
     <p>
         Now that the App is running with live-server, if you want to change
-        the document element, please edit the index.html or src/index.js
+        the document, please edit the index.html or src/index.js
         file to update the document.
     </p>
     <h1 class="counter"><span class="counter-js">00</span></h1>
